@@ -1,1 +1,4 @@
-This is read me
+Edited my readme on this github GUI
+
+HEllo
+
