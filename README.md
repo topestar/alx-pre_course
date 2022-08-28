@@ -1,4 +1,2 @@
-Edited my readme on this github GUI
-
-HEllo
+Edited my readme on this github interface
 
